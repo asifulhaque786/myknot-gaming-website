@@ -1,5 +1,6 @@
 # myknot-gaming-website
 This is a live project i did during my internship as a  full stack web developer in myknot private limited.
+
 company name::myknot.gaming
 
 internship duration::1 month

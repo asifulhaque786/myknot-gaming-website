@@ -12,4 +12,4 @@ technology used::firebase,html5,css3,bootstrap,advance javascript,php,aws
 the reference to the site is::
 
 
-https://myknot-pubggaming.online/
+https://myknot-tournament.online/
